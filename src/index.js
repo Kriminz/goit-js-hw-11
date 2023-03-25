@@ -1,7 +1,7 @@
 import ImgApiGallery from "./fetchImages"
 import LoadMoreBtn from "./loadMore"
 import axios from 'axios';
-import Notiflix from 'Notiflix';
+import Notiflix from 'notiflix';
 import './css/styles.css';
 
 // const DEBOUNCE_DELAY = 300;
